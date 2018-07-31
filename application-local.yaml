@@ -1,4 +1,4 @@
 spring:
   profiles:
     active: localall
-form: devform    
+form: localform    
