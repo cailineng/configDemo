@@ -1,6 +1,5 @@
 info:
   profiles:
     active: dev
-form：
-  lineng：devform
+form: devform
     
