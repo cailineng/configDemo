@@ -1,4 +1,4 @@
-spring:
+info:
   profiles:
     active: localall
 form: localform    
